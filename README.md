@@ -8,6 +8,10 @@ The license plate recognition project generally consists of two parts: localizat
 
 only English version in README-EN.md
 
+未来可能会基于模型性能进行进一步优化，以及探索可以实现端到端的同时改进的方式
+
+In the future, further optimization may be based on model performance, as well as exploring ways to achieve simultaneous improvements in an end-to-end manner.
+
 <h2>Deployment Process</h2>
 <li>Environment Setup</li>
 
