@@ -1,0 +1,9 @@
+path: F:\LPPNET-LicensePlateRecognition-YOLOv11-PaddleOCR\car_plate # data path
+train: train/images  # train images
+val: val/images  # val images
+test: test/images  # test images
+
+# Classes
+
+names:
+  0: car_plate
