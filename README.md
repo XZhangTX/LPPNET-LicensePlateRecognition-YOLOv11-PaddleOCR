@@ -53,6 +53,11 @@ Run ++run.py++, the program will process the ++car\_plate++ data, results are sa
     #In run file, you can modify input and output paths
     input_dir = "car_plate/test/img"
     output_dir = "car_plate/results"
+    
+模型结果可以在run文件夹下的train13下找到，下图为<strong>混淆矩阵</strong>
+
+<strong>confusion—matrix</strong> as follow:
+![image](https://github.com/user-attachments/assets/a6376a23-7d8b-460e-8df7-8e4b747da711)
 
 <h2><li>Project Training</li></h2>
 
