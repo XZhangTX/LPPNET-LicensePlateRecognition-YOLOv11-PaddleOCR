@@ -1,5 +1,12 @@
 ---
+<p align="center">
+  🌐 <b>Language:</b> English 🇬🇧 | 中文 🇨🇳
+</p>
 
+---
+
+<details open>
+<summary><b>English Version 🇬🇧</b></summary>
 <h2>License Plate Recognition Based on YOLOv11 and PaddleOCR(基于yolov11与ocr的车牌识别)</h2>
 
 The license plate recognition project generally consists of two parts: localization and recognition. The common combination is YOLO+CRNN. This project directly utilizes PaddleOCR, eliminating the need for separate CRNN training. With YOLOv11's convenience and efficiency, it's extremely suitable for beginners to deploy directly. Training your own model is also straightforward.
@@ -93,3 +100,9 @@ Project References:
 Github: <https://github.com/sirius-ai/LPRNet_Pytorch>
 Github：<https://github.com/HuKai97/YOLOv5-LPRNet-Licence-Recognition.git>
 YOLO：<https://github.com/ultralytics/ultralytics.git>
+</details>
+<details open>
+<summary><b>English Version 🇬🇧</b></summary>
+<summary><b>中文版 🇨🇳</b></summary> <h2>基于 YOLOv11 与 PaddleOCR 的车牌识别</h2>
+
+
