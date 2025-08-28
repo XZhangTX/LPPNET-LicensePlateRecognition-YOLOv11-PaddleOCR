@@ -96,7 +96,6 @@ Github：<https://github.com/HuKai97/YOLOv5-LPRNet-Licence-Recognition.git>
 YOLO：<https://github.com/ultralytics/ultralytics.git>
 </details>
 <details open>
-<summary><b>English Version 🇬🇧</b></summary>
 <summary><b>中文版 🇨🇳</b></summary> <h2>基于 YOLOv11 与 PaddleOCR 的车牌识别</h2>
 <h2>
 <p>License plate recognition based on YOLOv11 and paddleOCR<p>  
