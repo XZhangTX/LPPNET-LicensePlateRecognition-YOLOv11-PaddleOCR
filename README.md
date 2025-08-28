@@ -4,7 +4,7 @@
 
 The license plate recognition project generally consists of two parts: localization and recognition. The common combination is YOLO+CRNN. This project directly utilizes PaddleOCR, eliminating the need for separate CRNN training. With YOLOv11's convenience and efficiency, it's extremely suitable for beginners to deploy directly. Training your own model is also straightforward.
 
-中文版可见README-CH中文.md 
+[中文版可见README-CH中文.md]((README-CH中文.md))
 
 only English version in README-EN.md
 
